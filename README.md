@@ -57,9 +57,9 @@ Below is the connection for all the component needed.
 
 To run this project, install the necessary software as mentioned above and follow the following steps:
 
-1. Download the repository and unzip it. 
+1. Download the repository and unzip it in your workarea. 
 2. Open **STM32CubeIDE** software
 3. Select **File > Import** .
-4. Under **General**, select **Exixting Project into Workspace** and click **Next**. 
+4. Under **General**, select **Existing Project into Workspace** and click **Next**. 
 5. Browse the **FireAlarm_CMSIS** folder.
 6. Enable **Copy projects to Workspace**.
