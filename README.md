@@ -63,3 +63,4 @@ To run this project, install the necessary software as mentioned above and follo
 4. Under **General**, select **Existing Project into Workspace** and click **Next**. 
 5. Browse the **FireAlarm_CMSIS** folder.
 6. Enable **Copy projects to Workspace**.
+7. **Compile** and **flash** the firmware to the board.
