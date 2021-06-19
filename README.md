@@ -47,7 +47,7 @@ Another pop-up configuration will appear to setup the option for this project. C
 
 ![step7](https://github.com/amiruliman/FireAlarmDetectionSTM32/blob/main/Images/step6.png)
 
-# Circuit Connection (Schematic)
+# Circuit Connection 
 
 Below is the connection for all the component needed.
 
