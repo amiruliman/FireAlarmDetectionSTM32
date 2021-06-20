@@ -47,6 +47,22 @@ Another pop-up configuration will appear to setup the option for this project. C
 
 ![step7](https://github.com/amiruliman/FireAlarmDetectionSTM32/blob/main/Images/step6.png)
 
+# Keil’s CMSIS-DSP for Low Pass FIR Filter
+
+1.	The code is inspired from [here](https://www.keil.com/pack/doc/CMSIS/DSP/html/arm_fir_example_f32_8c-example.html)
+2.	The filter coefficient is calculated from [here](http://t-filter.engineerjs.com/)
+3.	FIR Coefficients buffer generated using Tfilter function
+
+![fir1](https://github.com/amiruliman/FireAlarmDetectionSTM32/blob/main/Images/fir1.png)
+
+4.  Input and output  buffer were initialize, and  FIR init was called to initialized the structure
+
+![fir2](https://github.com/amiruliman/FireAlarmDetectionSTM32/blob/main/Images/fir2.png)
+
+5.  The generated output against the reference output were compared.
+
+![fir3](https://github.com/amiruliman/FireAlarmDetectionSTM32/blob/main/Images/fir3.png)
+
 # Circuit Connection 
 
 Below is the connection for all the component needed.
